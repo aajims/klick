@@ -1,0 +1,103 @@
+{
+  "status": true,
+  "code": 200,
+  "message": "success",
+  "data": [
+    {
+      "idmenu": 6,
+      "name": "manage enterprise",
+      "slug": "enterprise",
+      "parent_idmenu": null,
+      "static_content_idstatic_content": null,
+      "submenu": [{
+        "idmenu": 7,
+        "name": "create enterprise",
+        "slug": "create",
+        "parent_idmenu": 6,
+        "static_content_idstatic_content": null,
+        "submenu": []
+      },
+        {
+          "idmenu": 8,
+          "name": "update enterprise",
+          "slug": "update",
+          "parent_idmenu": 6,
+          "static_content_idstatic_content": null,
+          "submenu": []
+        }
+      ]
+    },
+    {
+      "idmenu": 12,
+      "name": "static content",
+      "slug": "static-content",
+      "parent_idmenu": null,
+      "static_content_idstatic_content": null,
+      "submenu": [{
+        "idmenu": 13,
+        "name": "about oper",
+        "slug": "about",
+        "parent_idmenu": 12,
+        "static_content_idstatic_content": null,
+        "submenu": []
+      },
+        {
+          "idmenu": 14,
+          "name": "information",
+          "slug": "information",
+          "parent_idmenu": 12,
+          "static_content_idstatic_content": null,
+          "submenu": []
+        },
+        {
+          "idmenu": 15,
+          "name": "faq",
+          "slug": "faq",
+          "parent_idmenu": 12,
+          "static_content_idstatic_content": null,
+          "submenu": []
+        },
+        {
+          "idmenu": 16,
+          "name": "privacy policy",
+          "slug": "privacy-policy",
+          "parent_idmenu": 12,
+          "static_content_idstatic_content": null,
+          "submenu": []
+        },
+        {
+          "idmenu": 17,
+          "name": "terms and conditions",
+          "slug": "terms-and-conditions",
+          "parent_idmenu": 12,
+          "static_content_idstatic_content": null,
+          "submenu": []
+        },
+        {
+          "idmenu": 18,
+          "name": "customer service",
+          "slug": "customer-service",
+          "parent_idmenu": 12,
+          "static_content_idstatic_content": null,
+          "submenu": []
+        }
+      ]
+    },
+    {
+      "idmenu": 1,
+      "name": "home",
+      "slug": "",
+      "parent_idmenu": null,
+      "static_content_idstatic_content": null,
+      "submenu": []
+    },
+    {
+      "idmenu": 2,
+      "name": "profile",
+      "slug": "profile",
+      "parent_idmenu": null,
+      "static_content_idstatic_content": null,
+      "submenu": []
+    }
+  ]
+}
